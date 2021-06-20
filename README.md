@@ -1,8 +1,9 @@
 ConfiguracionServidorAWS
-Aquí se pueden encontrar los dos ejercicios de la Practica correspondiente al módulo Configuración de servidores y despliegue de aplicaciones.
+La Practica correspondiente al módulo Configuración de servidores y despliegue de aplicaciones en AWS.
 
-Ejercicio 1
-Cada alumno deberá desplegar en un servidor su desarrollo para la práctica del curso de Programación Backend con Node.
+Ejercicio 1.
+
+Desplegar en un servidor la práctica del curso de Programación Backend con Node usando para ello una DNS.
 
 La aplicacion está desplegada en la siguiente dirección:
 
@@ -14,7 +15,8 @@ https://github.com/Jatriana/Backend_Node_Avanzado_Practica.git
 
 
 Ejercicio 2
-Si se accede al servidor web indicando la dirección IP del servidor en lugar del nombre de dominio, se deberá carga la práctica realizada en el módulo de React.
+
+acceder al servidor web indicando la dirección IP del servicor, se carga la práctica realizada en el módulo de React.
 
 La aplicacion está desplegada en la siguiente dirección:
 
